@@ -1,7 +1,7 @@
 {
   "version": "2.1.0",
   "force_update": false,
-  "download_url": "",
+  "download_url": "https://github.com/HamzWebsite/noxsius/releases/tag/Myapk",
   "changelog": [
     "Auto update APK",
     "Fix bug landing page",
