@@ -1,10 +1,1 @@
-{
-  "version": "2.1.0",
-  "force_update": false,
-  "download_url": "https://github.com/HamzWebsite/noxsius/releases/tag/Myapk",
-  "changelog": [
-    "Auto update APK",
-    "Fix bug landing page",
-    "Peningkatan performa"
-  ]
-}
+{"version":"6.1.0","force_update":false,"download_url":"https://github.com/HamzWebsite/Updateotomatis/releases/download/v6.1.0/app-release.apk","changelog":["Fitur Update App otomatis dari GitHub","Theme Pterodactyl: comic, elipso, reviactyl, dll","Perbaikan bug & peningkatan performa"]}
